@@ -22,9 +22,13 @@ These contracts are the components for a DeFi Kingdom clone, diving into the DeF
 
 - `Network name`: MySubnet
 
-- `Currency Symbol`: MYSUB
+- `Currency Symbol`: MYSUBNET
 
-- `Chain Id`: 77777
+- `Chain Id`: 12345567
 
 - `RPC URL`: http://127.0.0.1:9650/ext/bc/jp4qeipSaGENi2xbg3q2tZs1vgGPuhaPujyaBUdLkR38bLWPz/rpc
+
+## AUthor
+
+  Gbenga
 
